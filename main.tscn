@@ -10,17 +10,17 @@ PlayerField_scene = ExtResource("2_l6et3")
 OpponentsField_scene = ExtResource("3_104ma")
 
 [node name="HostButton" type="Button" parent="."]
-offset_left = 193.0
-offset_top = 129.0
-offset_right = 237.0
-offset_bottom = 160.0
+offset_left = 153.0
+offset_top = 115.0
+offset_right = 197.0
+offset_bottom = 146.0
 text = "Host"
 
 [node name="JoinButton" type="Button" parent="."]
-offset_left = 863.0
-offset_top = 137.0
-offset_right = 901.0
-offset_bottom = 168.0
+offset_left = 815.0
+offset_top = 119.0
+offset_right = 853.0
+offset_bottom = 150.0
 text = "Join
 "
 
